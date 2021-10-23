@@ -1,8 +1,6 @@
 ################################
 # RGB LED Tests on the RPi Pico
-#
-# Copyright (c) Maker Portal LLC
-# Author: Joshua Hrisko
+#  1
 ################################
 #
 from machine import Pin

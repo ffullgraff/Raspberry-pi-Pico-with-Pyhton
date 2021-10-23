@@ -6,7 +6,7 @@ https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/7
 
 https://how2electronics.com/raspberry-pi-pico-getting-started-tutorial-with-micropython/
 
-Phyton examples
+Pyhton examples
 
 https://github.com/raspberrypi/pico-micropython-examples
 

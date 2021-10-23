@@ -9,3 +9,6 @@ https://how2electronics.com/raspberry-pi-pico-getting-started-tutorial-with-micr
 Phyton examples
 
 https://github.com/raspberrypi/pico-micropython-examples
+
+https://github.com/panchalnikunj/Raspberry-Pi-Pico-Projects
+

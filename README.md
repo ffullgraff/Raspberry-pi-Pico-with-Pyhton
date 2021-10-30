@@ -11,3 +11,4 @@ code ejecutable siempre debe ser main.py
 se puede crear carpeta almacen de codes dentro del Dispositivo
 Para su posterior uso como main.py code en carpeta principal
 
+https://rk.edu.pl/en/scripting-electronic-components-raspberry-pi-pico/

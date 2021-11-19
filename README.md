@@ -3,7 +3,15 @@ Mini Raspberry. Executable file must be named   main.py
 
 Best page I found for explain
 
-https://www.youtube.com/watch?v=2gihPgEkvL8&t=54s   
+1er paso
+https://www.electrosoftcloud.com/raspberry-pi-pico-programacion-en-micropython/
+
+2do paso
+https://www.raspberrypi.com/documentation/microcontrollers/
+
+3er paso
+https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html
+
 
 Desconectar SSD1306 oled para cambiar code
 
